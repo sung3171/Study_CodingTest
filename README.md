@@ -32,7 +32,7 @@ Algorithm &amp; Coding Test Study Repository. Each member uploads solutions week
 
 ## 방향
 
-- 개인의 시간 투자는 적게, 6개의 풀이가 모이면 결과물은 많게
+- 개인의 시간 투자는 적게, 풀이가 모이면 결과물은 많게
 - 난이도, 발표 후 질문, 복습
 
 ---

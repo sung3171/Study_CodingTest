@@ -7,4 +7,5 @@
 예시
 
 BOJ_4796_sungmok.py
+
 PGS_4796_minho.cpp

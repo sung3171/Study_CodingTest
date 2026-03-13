@@ -1,5 +1,4 @@
 # Study_CodingTest
-Algorithm &amp; Coding Test Study Repository. Each member uploads solutions weekly.
 
 ## 디렉토리 구조
 
